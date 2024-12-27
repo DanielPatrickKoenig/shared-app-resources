@@ -1,0 +1,104 @@
+{
+    "items": [
+        {
+            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/gemquest1.png",
+            "bg": ["#06757e", "#a32dc1"],
+            "title": "Title",
+            "description": "Description",
+            "contribution": "Contribution",
+            "mostProudOf": "Most Proud Of",
+            "link": "https://www.dentsugemquest.com/",
+            "video": "URL"
+        },
+        {
+            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/subway1.png",
+            "bg": ["#fab915", "#008938"],
+            "title": "Title",
+            "description": "Description",
+            "contribution": "Contribution",
+            "mostProudOf": "Most Proud Of",
+            "link": "https://www.footlongseason.com/",
+            "video": "URL"
+        },
+        {
+            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/panera1.png",
+            "bg": ["#1d4421", "#b0d300"],
+            "title": "Title",
+            "description": "Description",
+            "contribution": "Contribution",
+            "mostProudOf": "Most Proud Of",
+            "link": "https://game.playmypanera.com/",
+            "video": "URL"
+        },
+        {
+            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/starbucks1.png",
+            "bg": ["#d4e9e2", "#006241"],
+            "title": "Title",
+            "description": "Description",
+            "contribution": "Contribution",
+            "mostProudOf": "Most Proud Of",
+            "link": "URL",
+            "video": "URL"
+        },
+        {
+            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/starbucks2.png",
+            "bg": ["#d4e9e2", "#006241"],
+            "title": "Title",
+            "description": "Description",
+            "contribution": "Contribution",
+            "mostProudOf": "Most Proud Of",
+            "link": "URL",
+            "video": "URL"
+        },
+        {
+            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/cope1.png",
+            "bg": ["#993600", "#ff555c"],
+            "title": "Title",
+            "description": "Description",
+            "contribution": "Contribution",
+            "mostProudOf": "Most Proud Of",
+            "link": "URL",
+            "video": "URL"
+        },
+        {
+            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/dunkin1.png",
+            "bg": ["#ef6a00", "#c63663"],
+            "title": "Title",
+            "description": "Description",
+            "contribution": "Contribution",
+            "mostProudOf": "Most Proud Of",
+            "link": "URL",
+            "video": "URL"
+        },
+        {
+            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/dunkin2.png",
+            "bg": ["#ef6a00", "#c63663"],
+            "title": "Title",
+            "description": "Description",
+            "contribution": "Contribution",
+            "mostProudOf": "Most Proud Of",
+            "link": "URL",
+            "video": "URL"
+        },
+        {
+            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/synchrony1.png",
+            "bg": ["#006899", "#fbc600"],
+            "title": "Title",
+            "description": "Description",
+            "contribution": "Contribution",
+            "mostProudOf": "Most Proud Of",
+            "link": "URL",
+            "video": "URL"
+        },
+        {
+            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/oreo1.png",
+            "bg": ["#0058c", "#05AEFF"],
+            "title": "Title",
+            "description": "Description",
+            "contribution": "Contribution",
+            "mostProudOf": "Most Proud Of",
+            "link": "URL",
+            "video": "URL"
+        }
+    ]
+}
