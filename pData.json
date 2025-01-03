@@ -16,7 +16,7 @@
             "description": "Subway Footlong Season was a promotional microsite that offered subway members the opportunity to win prizes. It is built using Vue js and Three js with a Node js server side.",
             "contribution": "As part of the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, all 3D modeling and all 3D rigging.",
             "mostProudOf": "The client requested a falling potato chip animation between the game result and the reveal of the prize the user had won. The animation was created in three js using 3D potato chips. It turned out to be quite realistic and the client was overjoyed.",
-            "video": "URL"
+            "video": "video_subway"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/panera1.png",
@@ -25,17 +25,16 @@
             "description": "Panera Bready Set Score was a promotional microsite that offered Panera members the opportunity to win prizes. It is built using Vue js, Pixi js and Three js with a Node js server side.",
             "contribution": "As part of the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, contributing to the development of the game.",
             "mostProudOf": "The game used an engine of my own creation that leverages Three js to plot the 2D location of objects on the screen.",
-            "video": "URL"
+            "video": "video_panera"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/starbucks1.png",
             "bg": ["#d4e9e2", "#006241"],
-            "title": "Starbucks Summer",
-            "description": "Description",
-            "contribution": "Contribution",
-            "mostProudOf": "Most Proud Of",
-            "link": "URL",
-            "video": "URL"
+            "title": "Spirit of Kovak",
+            "description": ": Spirit of Kovak was a game made as a kind of a joke for a D&D campaign I participate in. In this campaign a bard named Kovak had died in our very first session after falling into a pit. I created the game to celebrate the character and for the other players to have a laugh. It was created in Vue js.",
+            "contribution": "I was responsible for the entire experience and concept.",
+            "mostProudOf": "The joy that it created for the other players in the campaign.",
+            "link": "https://danielpatrickkoenig.github.io/spirit-of-kovak/dist/index.html"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/starbucks2.png",
@@ -44,8 +43,7 @@
             "description": "Description",
             "contribution": "Contribution",
             "mostProudOf": "Most Proud Of",
-            "link": "URL",
-            "video": "URL"
+            "video": "video_starbucks"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/cope1.png",
@@ -54,8 +52,7 @@
             "description": "Description",
             "contribution": "Contribution",
             "mostProudOf": "Most Proud Of",
-            "link": "URL",
-            "video": "URL"
+            "video": "video_altria"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/dunkin1.png",
@@ -64,8 +61,7 @@
             "description": "Dunkin Summer Golf was a promotional microsite that offered users the opportunity to win prizes. It is built using Vue js, Pixi js and Three js with a Node js server side.",
             "contribution": "As part of the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, contributing to 3D modeling and the development of the mini golf game.",
             "mostProudOf": "The mini golf game, developed in Three js.",
-            "link": "URL",
-            "video": "URL"
+            "video": "video_dunkin"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/dunkin2.png",
@@ -74,8 +70,7 @@
             "description": "Description",
             "contribution": "Contribution",
             "mostProudOf": "Most Proud Of",
-            "link": "URL",
-            "video": "URL"
+            "video": "video_dunkin2"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/synchrony1.png",
@@ -84,8 +79,7 @@
             "description": "Let’s Get Digital was a promotional microsite that offered users members the opportunity to win prizes. It is built using Vue js, with a Node js server side. The pachinko game depended on an app built using React, Three js and Cannon js to create simulations of the falling pachinko ball.",
             "contribution": "As part of the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, creating the simulator that provided all the scenarios used by the game.",
             "mostProudOf": "This game needed to allow users to drop the ball from any position and then fall to a predetermined bucket, provided by the API. It used the Cannon js physics engine to simulate multiple scenarios for every start position leading to all 5 buckets. The result was an experience that looked random and spontaneous.",
-            "link": "URL",
-            "video": "URL"
+            "video": "video_synchronyLGD"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/oreo1.png",
@@ -94,8 +88,7 @@
             "description": "Oreo 110th Birthday  was a promotional microsite that offered users the opportunity to win prizes. It is built using Javascript and Perl.",
             "contribution": "As part of the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling, and the majority of animation.",
             "mostProudOf": "The sprinkle confetti. This was achieved entirely with CSS. I developed a tool that allowed for the placement of the confetti with custom configurations for different pages. These configurations were parsed into CSS variables and plugged into a mixin that rendered and animated them.",
-            "link": "URL",
-            "video": "URL"
+            "video": "video_oreo"
         }
     ]
 }
