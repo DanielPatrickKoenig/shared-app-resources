@@ -61,16 +61,16 @@
             "description": "Dunkin Summer Golf was a promotional microsite that offered users the opportunity to win prizes. It is built using Vue js, Pixi js and Three js with a Node js server side.",
             "contribution": "As part of the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, contributing to 3D modeling and the development of the mini golf game.",
             "mostProudOf": "The mini golf game, developed in Three js.",
-            "video": "video_dunkin"
+            "Demo": "https://danielpatrickkoenig.github.io/shared-app-resources/dunkin_summer_golf/build/index.html"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/dunkin2.png",
-            "bg": ["#ef6a00", "#c63663"],
-            "title": "Dunkin Extras",
-            "description": "Description",
-            "contribution": "Contribution",
-            "mostProudOf": "Most Proud Of",
-            "video": "video_dunkin2"
+            "bg": ["#ef6a00", "#ef6a00"],
+            "title": "Dunkin at Home Extras",
+            "description": "Dunkin at Home Extras is a loyalty program that gives users an opportunity to participate in activities, upload receipts and earn rewards. It is built using Cue js and Node Js",
+            "contribution": "As a member of the original development team I was responsible for contributing to UI development, css styling and api integration.",
+            "mostProudOf": "I am most proud of refining the drawer functionality to play function properly. The drawer was a problem area during the build. I made it my mission to get it to work as gracefully as possible.",
+            "link": "https://www.dunkinextras.com"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/synchrony1.png",
