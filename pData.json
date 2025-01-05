@@ -61,7 +61,7 @@
             "description": "Dunkin Summer Golf was a promotional microsite that offered users the opportunity to win prizes. It is built using Vue js, Pixi js and Three js with a Node js server side.",
             "contribution": "As part of the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, contributing to 3D modeling and the development of the mini golf game.",
             "mostProudOf": "The mini golf game, developed in Three js.",
-            "Demo": "https://danielpatrickkoenig.github.io/shared-app-resources/dunkin_summer_golf/build/index.html"
+            "demo": "https://danielpatrickkoenig.github.io/shared-app-resources/dunkin_summer_golf/build/index.html"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/dunkin2.png",
