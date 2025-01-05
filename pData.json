@@ -28,8 +28,8 @@
             "video": "video_panera"
         },
         {
-            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/starbucks1.png",
-            "bg": ["#d4e9e2", "#006241"],
+            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/kovak.png",
+            "bg": ["#d4e9e2", "#513d2c"],
             "title": "Spirit of Kovak",
             "description": ": Spirit of Kovak was a game made as a kind of a joke for a D&D campaign I participate in. In this campaign a bard named Kovak had died in our very first session after falling into a pit. I created the game to celebrate the character and for the other players to have a laugh. It was created in Vue js.",
             "contribution": "I was responsible for the entire experience and concept.",
