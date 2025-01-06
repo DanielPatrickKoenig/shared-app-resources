@@ -31,7 +31,7 @@
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/kovak.png",
             "bg": ["#d4e9e2", "#513d2c"],
             "title": "Spirit of Kovak",
-            "description": ": Spirit of Kovak was a game made as a kind of a joke for a D&D campaign I participate in. In this campaign a bard named Kovak had died in our very first session after falling into a pit. I created the game to celebrate the character and for the other players to have a laugh. It was created in Vue js.",
+            "description": "Spirit of Kovak was a game made as a kind of a joke for a D&D campaign I participate in. In this campaign a bard named Kovak had died in our very first session after falling into a pit. I created the game to celebrate the character and for the other players to have a laugh. It was created in Vue js.",
             "contribution": "I was responsible for the entire experience and concept.",
             "mostProudOf": "The joy that it created for the other players in the campaign.",
             "link": "https://danielpatrickkoenig.github.io/spirit-of-kovak/dist/index.html"
@@ -39,19 +39,19 @@
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/starbucks2.png",
             "bg": ["#d4e9e2", "#006241"],
-            "title": "Starbucks Fall",
-            "description": "Description",
-            "contribution": "Contribution",
-            "mostProudOf": "Most Proud Of",
+            "title": "Starbucks Fall 2021",
+            "description": "Starbucks Fall 2021 was a promotional microsite that offered users the opportunity to win prizes. It is built using Vue js with a Node js server side.",
+            "contribution": "As part of the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling and contributing to front-end API integration.",
+            "mostProudOf": "My favorite part of this project was the rapid build the team was able to do.",
             "video": "video_starbucks"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/cope1.png",
-            "bg": ["#993600", "#ff555c"],
+            "bg": ["#715c35", "#715c35"],
             "title": "Altria Loyalty",
-            "description": "Description",
-            "contribution": "Contribution",
-            "mostProudOf": "Most Proud Of",
+            "description": "Altria Loyalty was a suite of loyalty programs for several Altria brands. The project was built using Vue js and Node js.",
+            "contribution": "I was part of a team that developed a module library used across several Altria loyalty programs. As a part of the dev team for each loyalty program, I was responsible for contributing to UI development, contributing to integrating the module, contributing to API integration and contributing to CSS styling.",
+            "mostProudOf": "I am most proud of the creation of the library and the components used across the loyalty programs.",
             "video": "video_altria"
         },
         {
