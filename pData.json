@@ -4,9 +4,9 @@
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/gemquest1.png",
             "bg": ["#06757e", "#a32dc1"],
             "title": "Dentsu Gemquest",
-            "description": "Dentsu GemQuest is a promotional gam created to promote the Dentsu’s research on gaming. It is built using Vue js, Pixi js and Three js.",
-            "contribution": "I was responsible for the development of all UI elements and all the mechanics of the game. Additionally I rigged the model of the crossbow.",
-            "mostProudOf": "This game was an internal initiative that was later successfully used to sell this game to clients.",
+            "description": "Dentsu GemQuest is a promotional game created to promote Dentsu’s research on gaming. It is built using Vue js, Pixi js and Three js.",
+            "contribution": "I was responsible for the development of all UI functionality, all the CSS and all the mechanics of the game. Additionally I rigged the model of the crossbow.",
+            "mostProudOf": "This game was an internal initiative that was later successfully used to sell similar games to clients.",
             "link": "https://www.dentsugemquest.com/"
         },
         {
@@ -14,7 +14,7 @@
             "bg": ["#fab915", "#008938"],
             "title": "Subway Footlong Season",
             "description": "Subway Footlong Season was a promotional microsite that offered subway members the opportunity to win prizes. It is built using Vue js and Three js with a Node js server side.",
-            "contribution": "As part of the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, all 3D modeling and all 3D rigging.",
+            "contribution": "Working on a team of developers, I was responsible for contributing to the UI development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, all 3D modeling and all 3D rigging.",
             "mostProudOf": "The client requested a falling potato chip animation between the game result and the reveal of the prize the user had won. The animation was created in three js using 3D potato chips. It turned out to be quite realistic and the client was overjoyed.",
             "video": "video_subway"
         },
@@ -23,7 +23,7 @@
             "bg": ["#1d4421", "#b0d300"],
             "title": "Panera Bready Set Score",
             "description": "Panera Bready Set Score was a promotional microsite that offered Panera members the opportunity to win prizes. It is built using Vue js, Pixi js and Three js with a Node js server side.",
-            "contribution": "As part of the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, contributing to the development of the game.",
+            "contribution": "Along with several other developers, I was responsible for contributing to the UI Development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, contributing to the development of the game.",
             "mostProudOf": "The game used an engine of my own creation that leverages Three js to plot the 2D location of objects on the screen.",
             "video": "video_panera"
         },
@@ -31,9 +31,9 @@
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/kovak.png",
             "bg": ["#d4e9e2", "#513d2c"],
             "title": "Spirit of Kovak",
-            "description": "Spirit of Kovak was a game made as a kind of a joke for a D&D campaign I participate in. In this campaign a bard named Kovak had died in our very first session after falling into a pit. I created the game to celebrate the character and for the other players to have a laugh. It was created in Vue js.",
-            "contribution": "I was responsible for the entire experience and concept.",
-            "mostProudOf": "The joy that it created for the other players in the campaign.",
+            "description": "Spirit of Kovak was a game made as kind of a joke for a D&D campaign I participate in. In this campaign a bard named Kovak had died in our very first session after falling into a pit. I created the game to celebrate the character and for the other players to have a laugh. It was created in Vue js.",
+            "contribution": "I was responsible for developing the entire experience and concept. I was also responsible for the design.",
+            "mostProudOf": "I am most proud of the joy that it created for the other players in the campaign.",
             "link": "https://danielpatrickkoenig.github.io/spirit-of-kovak/dist/index.html"
         },
         {
@@ -59,25 +59,25 @@
             "bg": ["#ef6a00", "#c63663"],
             "title": "Dunkin Summer",
             "description": "Dunkin Summer Golf was a promotional microsite that offered users the opportunity to win prizes. It is built using Vue js, Pixi js and Three js with a Node js server side.",
-            "contribution": "As part of the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, contributing to 3D modeling and the development of the mini golf game.",
-            "mostProudOf": "The mini golf game, developed in Three js.",
+            "contribution": "Being one the members of the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, contributing to 3D modeling and the development of the mini golf game.",
+            "mostProudOf": "I am most proud of the mini golf game entirely developed in Three js.",
             "demo": "https://danielpatrickkoenig.github.io/shared-app-resources/dunkin_summer_golf/build/index.html"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/dunkin2.png",
             "bg": ["#ef6a00", "#ef6a00"],
             "title": "Dunkin at Home Extras",
-            "description": "Dunkin at Home Extras is a loyalty program that gives users an opportunity to participate in activities, upload receipts and earn rewards. It is built using Cue js and Node Js",
-            "contribution": "As a member of the original development team I was responsible for contributing to UI development, css styling and api integration.",
-            "mostProudOf": "I am most proud of refining the drawer functionality to play function properly. The drawer was a problem area during the build. I made it my mission to get it to work as gracefully as possible.",
+            "description": "Dunkin at Home Extras is a loyalty program that gives users an opportunity to participate in activities, upload receipts and earn rewards. It is built using Vue js and Node Js",
+            "contribution": "Having been a member of the original development team I was responsible for contributing to UI development, css styling and api integration.",
+            "mostProudOf": "I am most proud of refining the drawer functionality to function properly. The drawer was a problem area during the build. I made it my mission to get it to work as gracefully as possible.",
             "link": "https://www.dunkinextras.com"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/synchrony1.png",
             "bg": ["#006899", "#fbc600"],
             "title": "Synchrony Let's Get Digital",
-            "description": "Let’s Get Digital was a promotional microsite that offered users members the opportunity to win prizes. It is built using Vue js, with a Node js server side. The pachinko game depended on an app built using React, Three js and Cannon js to create simulations of the falling pachinko ball.",
-            "contribution": "As part of the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, creating the simulator that provided all the scenarios used by the game.",
+            "description": "Synchrony Let’s Get Digital was a promotional microsite that offered users members the opportunity to win prizes. It is built using Vue js, with a Node js server side. The pachinko game depended on an app built using React, Three js and Cannon js to create simulations of the falling pachinko ball.",
+            "contribution": "Working on the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling, contributing to the animations, contributing to front-end API integration, creating the simulator that provided all the scenarios used by the game.",
             "mostProudOf": "This game needed to allow users to drop the ball from any position and then fall to a predetermined bucket, provided by the API. It used the Cannon js physics engine to simulate multiple scenarios for every start position leading to all 5 buckets. The result was an experience that looked random and spontaneous.",
             "video": "video_synchronyLGD"
         },
