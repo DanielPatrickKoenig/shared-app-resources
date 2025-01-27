@@ -11,7 +11,7 @@
     "custom": {
         "sortables": [
             {
-                "name": "diamond",
+                "name": "diamond2",
                 "patern": [
                     [
                         {
@@ -36,7 +36,7 @@
         ],
         "singles": [
             {
-                "name": "diamond2",
+                "name": "diamond",
                 "patern": [
                     [
                         {
