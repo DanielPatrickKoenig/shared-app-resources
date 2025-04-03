@@ -16,16 +16,16 @@
             "description": "Subway Footlong Season was a promotional microsite that offered subway members the opportunity to win prizes. It is built using Vue js and Three js with a Node js server side.",
             "contribution": "Working on a team of developers, I was responsible for contributing to the UI development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, all 3D modeling and all 3D rigging.",
             "mostProudOf": "The client requested a falling potato chip animation between the game result and the reveal of the prize the user had won. The animation was created in three js using 3D potato chips. It turned out to be quite realistic and the client was overjoyed.",
-            "video": "video_subway"
+            "link": "video_subway"
         },
         {
-            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/panera1.png",
-            "bg": ["#1d4421", "#b0d300"],
-            "title": "Panera Bready Set Score",
-            "description": "Panera Bready Set Score was a promotional microsite that offered Panera members the opportunity to win prizes. It is built using Vue js, Pixi js and Three js with a Node js server side.",
-            "contribution": "Along with several other developers, I was responsible for contributing to the UI Development, contributing to the CSS styling, constituting to animation, contributing to front-end API integration, contributing to the development of the game.",
-            "mostProudOf": "The game used an engine of my own creation that leverages Three js to plot the 2D location of objects on the screen.",
-            "video": "video_panera"
+            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/gcsym.png",
+            "bg": ["#112211", "#112211"],
+            "title": "Gamecube Data Symulator",
+            "description": "The Gamecube Data Symulator is particle based data visualization with multiple data sorting features, filters and a search funchionality.",
+            "contribution": "As the sole developer I was responsible for pocessing the data, cleaning the data, developing the data sorting alcorythms, developing the UI and creating the css styling.",
+            "mostProudOf": "This project was done just for fun. It was an opportunity to use my python skills and my front end development skills.",
+            "link": "https://danielpatrickkoenig.github.io/n64-sym/build/index.html"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/kovak.png",
@@ -37,13 +37,13 @@
             "link": "https://danielpatrickkoenig.github.io/spirit-of-kovak/dist/index.html"
         },
         {
-            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/starbucks2.png",
-            "bg": ["#d4e9e2", "#006241"],
-            "title": "Starbucks Fall 2021",
-            "description": "Starbucks Fall 2021 was a promotional microsite that offered users the opportunity to win prizes. It is built using Vue js with a Node js server side.",
-            "contribution": "As part of the development team, I was responsible for contributing to the UI Development, contributing to the CSS styling and contributing to front-end API integration.",
-            "mostProudOf": "My favorite part of this project was the rapid build the team was able to do.",
-            "video": "video_starbucks"
+            "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/crisscrosscrush.png",
+            "bg": ["#1122aa", "#1122aa"],
+            "title": "Criss Cross Crush",
+            "description": "Criss Cross Crush is a grid based puzzle game in which the user can move block by sliding entire rows and columns. The object of the game is to create the specified patterns to destroy groups of blocks.",
+            "contribution": "As part of the sole developer, I was responsible for developing the game engine, UI development, the CSS styling.",
+            "mostProudOf": "My favorete part of this project was creating the block sliding game engine and the renderless component to allow any type of block sliding game..",
+            "link": "https://danielpatrickkoenig.github.io/criss-cross-demo/dist/index.html"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/cope1.png",
