@@ -38,10 +38,10 @@
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/crisscrosscrush.png",
-            "bg": ["#1122aa", "#1122aa"],
+            "bg": ["#0066ee", "#0066ee"],
             "title": "Criss Cross Crush",
             "description": "Criss Cross Crush is a grid based puzzle game in which the user can move block by sliding entire rows and columns. The object of the game is to create the specified patterns to destroy groups of blocks.",
-            "contribution": "As part of the sole developer, I was responsible for developing the game engine, UI development, the CSS styling.",
+            "contribution": "As the sole developer, I was responsible for developing the game engine, UI development and the CSS styling.",
             "mostProudOf": "My favorete part of this project was creating the block sliding game engine and the renderless component to allow any type of block sliding game..",
             "link": "https://danielpatrickkoenig.github.io/criss-cross-demo/dist/index.html"
         },
