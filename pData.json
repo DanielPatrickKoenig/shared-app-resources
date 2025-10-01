@@ -7,7 +7,7 @@
             "description": "Dentsu GemQuest is a promotional game created to promote Dentsu’s research on gaming. It is built using Vue js, Pixi js and Three js.",
             "contribution": "I was responsible for the development of all UI functionality, all the CSS and all the mechanics of the game. Additionally I rigged the model of the crossbow.",
             "mostProudOf": "This game was an internal initiative that was later successfully used to sell similar games to clients.",
-            "link": "https://www.dentsugemquest.com/"
+            "link": "https://eprize-content.s3.amazonaws.com/dentsugemquest/index.html"
         },
         {
             "cardBg": "https://danielpatrickkoenig.github.io/shared-app-resources/subway1.png",
